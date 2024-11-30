@@ -1,0 +1,12 @@
+ipykernel
+requests
+bs4
+matplotlib
+langchain-google-genai
+pandas
+tiktoken
+numpy
+rouge
+sacrebleu
+streamlit
+matplotlib
